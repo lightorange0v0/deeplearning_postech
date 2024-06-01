@@ -1,0 +1,11 @@
+requests
+numpy
+matplotlib
+scipy
+
+[all]
+torch
+notebook
+
+[dev]
+pytest
