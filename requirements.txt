@@ -1,0 +1,12 @@
+torch
+matplotlib
+pandas
+numpy
+pytorchcv
+scipy
+h5py
+torchvision
+wandb
+seaborn
+scikit-learn
+pyhessian
