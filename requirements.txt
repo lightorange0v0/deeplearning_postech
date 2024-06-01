@@ -10,3 +10,4 @@ wandb
 seaborn
 scikit-learn
 pyhessian
+scipy.stats
