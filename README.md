@@ -109,7 +109,7 @@
     - `dir_file`: Path to the `directions.h5` file in the `PCA_*` folder generated when running `plot_trajectory.py`.
     - `proj_file`: Path to the `*_proj_cos.h5` file in the `PCA_*` folder generated when running `plot_trajectory.py`.
 
-6. Code Reference:
+## Code Reference
    - MNIST1D:
      https://github.com/greydanus/mnist1d
    - PyHessian:
